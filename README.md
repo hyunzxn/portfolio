@@ -5,7 +5,7 @@
 
 <br>
 
-# 🧑🏻‍💻 About Me
+## 🧑🏻‍💻 About Me
 
 - 안녕하세요! 신입 개발자로 커리어를 시작하기 희망하는 문현준입니다.
 - 공적인 가치에 관심이 많아 행정학을 전공하다가 기술로써 더 나은 가치를 창출하고 도움이 되는 기술을 개발하는 개발자의 꿈을 가지게 되었습니다.
@@ -15,7 +15,7 @@
 
 <br>
 
-# 📧 Contact
+## 📧 Contact
 
 - `Email`: jann1653@gmail.com
 - `Github`: https://github.com/hyunzxn
@@ -25,7 +25,7 @@
 
 <br>
 
-# 📌 Project
+## 📌 Project
 
 ### 할머니는 다 들어주셔
 
@@ -51,7 +51,7 @@
 >
 > 
 >
-> [프로젝트 상세 소개](https://github.com/hyunzxn/NewsCommunity-bFinal.git)
+> [프로젝트 상세 소개](https://github.com/hyunzxn/NewsCommunity-bFinal.git) (클릭하시면 이동합니다.)
 
 
 
