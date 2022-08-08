@@ -51,7 +51,7 @@
 >
 > 
 >
-> [프로젝트 상세 소개] (https://github.com/hyunzxn/NewsCommunity-bFinal.git)
+> [프로젝트 상세 소개](https://github.com/hyunzxn/NewsCommunity-bFinal.git)
 
 
 
