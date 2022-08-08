@@ -3,7 +3,7 @@
 
 
 
-
+<br>
 
 # 🧑🏻‍💻 About Me
 
@@ -13,7 +13,7 @@
 
 
 
-
+<br>
 
 # 📧 Contact
 
@@ -23,7 +23,7 @@
 
 
 
-
+<br>
 
 # 📌 Project
 
@@ -33,21 +33,21 @@
 >
 > 개발기간: 2022.06.24 ~ 2022.07.29
 >
-> 
+> <br>
 >
 > [기술스택]
 >
-> Backend: Java11 / Spring Boot 2.7.0 / Gradle 7.4.1 / Spring Data JPA 
+> - Backend: Java11 / Spring Boot 2.7.0 / Gradle 7.4.1 / Spring Data JPA 
 >
-> Database: AWS RDS (MySQL) 
+> - Database: AWS RDS (MySQL) 
 >
-> Security: Spring Security
+> - Security: Spring Security
 >
-> Infra: AWS Elastic Beanstalk, AWS S3, AWS CloudFront
+> - Infra: AWS Elastic Beanstalk, AWS S3, AWS CloudFront
 >
-> CI/CD: Github Action
+> - CI/CD: Github Action
 >
-> Frontend: HTML5 / CSS /  Javascript / Bulma / Pagination.js
+> - Frontend: HTML5 / CSS /  Javascript / Bulma / Pagination.js
 >
 > 
 >
