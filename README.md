@@ -39,7 +39,7 @@
 >
 > - Backend: Java11 / Spring Boot 2.7.0 / Gradle 7.4.1 / Spring Data JPA 
 >
-> - Database: AWS RDS (MySQL) 
+> - Database: AWS RDS (MySQL 8.0.28) 
 >
 > - Security: Spring Security
 >
